@@ -47,3 +47,5 @@ Pair your phone with the HC-05 module using a Bluetooth terminal app.
 Send commands (forward, backward, left, right, stop) via the app.
 
 The robot moves accordingly.
+
+[Jitendra Sharma] (GitHub: https://github.com/jitendrasharma-eng/WiB-Automation---Wireless-IoT-Controle-App.git)
