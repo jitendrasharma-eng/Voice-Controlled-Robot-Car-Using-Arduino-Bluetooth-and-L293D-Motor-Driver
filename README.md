@@ -48,4 +48,4 @@ Send commands (forward, backward, left, right, stop) via the app.
 
 The robot moves accordingly.
 
-[Jitendra Sharma] (GitHub: https://github.com/jitendrasharma-eng/WiB-Automation---Wireless-IoT-Controle-App.git)
+[Jitendra Sharma] (GitHub: https://github.com/jitendrasharma-eng/Voice-Controlled-Robot-Car-Using-Arduino-Bluetooth-and-L293D-Motor-Driver.git)
