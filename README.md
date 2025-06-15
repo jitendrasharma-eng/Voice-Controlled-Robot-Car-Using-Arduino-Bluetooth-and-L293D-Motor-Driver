@@ -41,6 +41,16 @@
   <li>Send commands (<code>forward</code>, <code>backward</code>, <code>left</code>, <code>right</code>, <code>stop</code>) via the app.</li>
   <li>The robot moves accordingly.</li>
 </ol>
+<h2>📥 Download AIA and APK Files</h2>
+
+<p>You can download the source code (<code>.aia</code>) and the Android app (<code>.apk</code>) to control the robot via Bluetooth:</p>
+
+<ul>
+  <li>🔧 <strong><a href="YOUR_AIA_FILE_LINK_HERE" target="_blank">Download .aia file</a></strong> – Import this file into <a href="https://ai2.appinventor.mit.edu" target="_blank">MIT App Inventor</a> to modify or learn from the project.</li>
+  <li>📱 <strong><a href="YOUR_APK_FILE_LINK_HERE" target="_blank">Download .apk file</a></strong> – Install this Android app on your smartphone to control the robot using voice commands.</li>
+</ul>
+
+<p>💡 <strong>Note:</strong> Before installing the <code>.apk</code>, make sure your Android phone allows installation from unknown sources.</p>
 
 
 📬 Author: Jitendra Sharma 📧 Email: jitendrasharma7409@gmail.com 🔗 Follow for more: https://github.com/jitendrasharma-eng?tab=repositories | www.youtube.com/@ECodeLab-mv4jm | linkedin.com/in/jitendra-sharma-484072248 [https://www.linkedin.com/in/jitendra-sharma-484072248?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdRzhEpUKQSqQh6%2Fm6UayRw%3D%3D]
