@@ -48,4 +48,4 @@ Send commands (forward, backward, left, right, stop) via the app.
 
 The robot moves accordingly.
 
-[Jitendra Sharma] (GitHub: https://github.com/jitendrasharma-eng/Voice-Controlled-Robot-Car-Using-Arduino-Bluetooth-and-L293D-Motor-Driver.git)
+📬 Author: Jitendra Sharma 📧 Email: jitendrasharma7409@gmail.com 🔗 Follow for more: https://github.com/jitendrasharma-eng?tab=repositories | www.youtube.com/@ECodeLab-mv4jm | linkedin.com/in/jitendra-sharma-484072248 [https://www.linkedin.com/in/jitendra-sharma-484072248?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdRzhEpUKQSqQh6%2Fm6UayRw%3D%3D]
